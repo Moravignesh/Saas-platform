@@ -29,9 +29,9 @@ npm run dev
 ---
 ## Demo videos
 
-frontend video: https://drive.google.com/file/d/1zpLQyraHFdyGySN_XyaJym4ldY0oJbvH/view?usp=sharing
+frontend video: https://drive.google.com/file/d/1Jr_6hQDQUl9toful9dGf9DtaZG9F68wS/view?usp=sharing
 
-Backend video: https://drive.google.com/file/d/1Jr_6hQDQUl9toful9dGf9DtaZG9F68wS/view?usp=sharing
+Backend video: https://drive.google.com/file/d/1zpLQyraHFdyGySN_XyaJym4ldY0oJbvH/view?usp=sharing
 
 ## 🔑 Default Credentials
 
