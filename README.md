@@ -4,7 +4,7 @@ Full-stack SaaS with Admin Dashboard | FastAPI + React
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Backend
 ```bash
